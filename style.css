@@ -1,0 +1,24 @@
+body {
+    font-family: "logic-monospace", mono;
+    font-size: 14px;
+    color: #343536;
+    padding: 1rem 2rem 3rem 2rem;
+}
+
+header {
+    margin-bottom: 4rem;
+}
+
+h1 {
+    font-size: 100%;
+    display: inline;
+    font-style: italic;
+}
+
+figure {
+    margin: 0 0 4rem 0;
+}
+
+figcaption {
+    margin-top: 10px;
+}
