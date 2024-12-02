@@ -1,12 +1,14 @@
 body {
     font-family: "logic-monospace", mono;
-    font-size: 14px;
+    font-size: 100%;
     color: #343536;
-    padding: 1rem 2rem 3rem 2rem;
+    padding: 4rem 2rem;
+    text-align: center;
 }
 
 header {
     margin-bottom: 4rem;
+    font-size: 1rem;
 }
 
 h1 {
@@ -16,9 +18,13 @@ h1 {
 }
 
 figure {
-    margin: 0 0 4rem 0;
+    margin-bottom: 4rem;
 }
 
 figcaption {
-    margin-top: 10px;
+    margin-top: 1rem;
+}
+
+footer img {
+    margin-top: 2rem;
 }
