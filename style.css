@@ -4,6 +4,9 @@ body {
     color: #343536;
     padding: 4rem 2rem;
     text-align: center;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
 }
 
 header {
