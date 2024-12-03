@@ -9,9 +9,8 @@ body {
     text-rendering: optimizeLegibility;
 }
 
-header {
-    margin-bottom: 4rem;
-    font-size: 1rem;
+main {
+    margin-block: 6rem;
 }
 
 h1 {
@@ -20,7 +19,7 @@ h1 {
     font-style: italic;
 }
 
-figure {
+figure:not(:last-child) {
     margin-bottom: 4rem;
 }
 
@@ -29,5 +28,5 @@ figcaption {
 }
 
 footer img {
-    margin-top: 2rem;
+    margin-top: 1rem;
 }
