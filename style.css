@@ -27,6 +27,11 @@ figcaption {
     margin-top: 1rem;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 footer img {
     margin-top: 1rem;
 }
